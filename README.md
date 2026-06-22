@@ -1,1 +1,1 @@
-# Copa do Mundo 2026 - Quem Ç o Favorito? 
+# Copa do Mundo 2026 - Qual ser√° o Favorito? 

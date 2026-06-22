@@ -1,4 +1,4 @@
-# Quem é o Favorito para Vencer a Copa do Mundo 2026?
+# Quem e o Favorito para Vencer a Copa do Mundo 2026?
 
 Analise de dados para identificar os favoritos da Copa do Mundo 2026.
 
@@ -32,7 +32,11 @@ Criar um ranking das 48 selecoes classificadas para a Copa 2026.
 | 9 | Belgica | 72.2 |
 | 10 | Brasil | 70.2 |
 
+## Visualizacoes
+
 ![Top 15 Favoritos](images/top15_favoritos.png)
+
+![Radar Top 5](images/radar_top5.png)
 
 ![Contribuicao por Criterio](images/contribuicao_criterios.png)
 

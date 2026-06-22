@@ -1,4 +1,4 @@
-# Quem e o Favorito para Vencer a Copa do Mundo 2026?
+# Quem é o Favorito para Vencer a Copa do Mundo 2026?
 
 Analise de dados para identificar os favoritos da Copa do Mundo 2026.
 
